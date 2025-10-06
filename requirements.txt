@@ -1,6 +1,15 @@
+# Core UI
 streamlit==1.30.0
-tensorflow-cpu==2.12.0
+
+# Image processing
 pillow>=10.0.0,<10.1.0
-numpy>=1.24.4,<1.25.0
-pandas>=2.0.3,<2.1.0
+
+# Numerical computing
+numpy>=1.25.0,<1.26.0
+
+# Data handling
+pandas>=2.1.0,<2.2.0
+
+# Optional: improved logging
 rich>=14.1.0
+
