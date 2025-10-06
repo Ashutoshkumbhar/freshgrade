@@ -1,16 +1,5 @@
-# Core UI
 streamlit==1.30.0
-
-# Machine Learning (Python 3.13 compatible)
 tensorflow-cpu==2.20.0
-
-# Image processing
 pillow>=10.0.0,<10.1.0
-
-# Numerical computing
 numpy>=1.25.0,<1.26.0
-
-# Data handling
 pandas>=2.1.0,<2.2.0
-
-
